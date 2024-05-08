@@ -3,3 +3,5 @@
 <p>We usually just code random projects for fun!</p>
 
 <strong>Enjoy our Websites!</strong>
+
+<img src="icon.png" alt="icon">
